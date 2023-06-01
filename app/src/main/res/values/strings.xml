@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pascal\'s Triangle Generator</string>
+
+    <string name="title">Pascal\’s Triangle</string>
+    <string name="description">A pascal\'s triangle is an arrangement of numbers in a triangular array such that the numbers at the end of each row are 1 and the remaining numbers are the sum of the nearest two numbers in the above row.This concept is used widely in probability, combinatorics, and algebra. Pascal\'s triangle is used to find the likelihood of the outcome of the toss of a coin, coefficients of binomial expansions in probability, etc.</string>
+    <string name="title_history">History of Pascal’s Triangle</string>
+    <string name="history_desc">Pascal\'s Triangle is a mathematical triangle that was named after the French mathematician and philosopher Blaise Pascal. However, the triangle was known and studied by mathematicians from different parts of the world even before Pascal\'s time.</string>
+    <string name="title_importance">Why is Pascal’s Triangle important?</string>
+    <string name="importance_desc">Pascal\'s triangle is important because it contains numerous patterns that can be used to make complex calculations much easier. Some of the incredible patterns hidden within this infinite mathematical work of art include but are not limited to diagonals, odds and evens, horizontal sums, exponents of 11, squares, the Fibonacci Sequence, and so much more. </string>
+    <string name="title_generator">Pascal’s Triangle Generator</string>
+    <string name="generator_desc">This android application was made in order to generate Pascal’s Triangle. As a requirement treated as a case study, it was made by the following students of the College of Computing and Information Sciences at the University of Makati:</string>
+    <string name="group_members">Abrugar, Ronabel\nMacatuhay, Angel Kaye\nOchoa, Carl Dominic\nRobles, John Alex</string>
+    <string name="try_out">Try it out now!</string>
+    <string name="pascal_desc">Pascals triangle or Pascal\'s triangle is an arrangement of binomial coefficients in triangular form. It is named after the French mathematician Blaise Pascal.\n\nThe numbers in Pascal\'s triangle are placed in such a way that each number is the sum of two numbers just above the number.</string>
+    <string name="input_label">Input number of rows:</string>
+    <string name="pascal_formula">Formula: (n+1)C(r) = (n)C(r - 1) + (n)C(r).</string>
+</resources>
